@@ -32,6 +32,7 @@ My DSA practice in C++ with notes and solutions.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sh3456/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Sh3456/DSA/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -41,4 +42,8 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sh3456/DSA/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sh3456/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
