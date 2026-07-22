@@ -38,6 +38,7 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sh3456/DSA/tree/master/0011-container-with-most-water) |
+| [0118-pascals-triangle](https://github.com/Sh3456/DSA/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
 | ------- |
@@ -46,4 +47,8 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sh3456/DSA/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Sh3456/DSA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
