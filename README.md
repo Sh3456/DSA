@@ -7,6 +7,7 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sh3456/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Sh3456/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sh3456/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sh3456/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sh3456/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -26,6 +27,7 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sh3456/DSA/tree/master/0011-container-with-most-water) |
+| [0061-rotate-list](https://github.com/Sh3456/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sh3456/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sh3456/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sh3456/DSA/tree/master/0234-palindrome-linked-list) |
