@@ -6,6 +6,7 @@ My DSA practice in C++ with notes and solutions.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sh3456/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sh3456/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Sh3456/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sh3456/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -17,6 +18,7 @@ My DSA practice in C++ with notes and solutions.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sh3456/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Sh3456/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Sh3456/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Sh3456/DSA/tree/master/0234-palindrome-linked-list) |
@@ -67,4 +69,8 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sh3456/DSA/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Sh3456/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
