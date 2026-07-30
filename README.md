@@ -32,6 +32,7 @@ My DSA practice in C++ with notes and solutions.
 | [0011-container-with-most-water](https://github.com/Sh3456/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sh3456/DSA/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Sh3456/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Sh3456/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sh3456/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0148-sort-list](https://github.com/Sh3456/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sh3456/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -47,6 +48,7 @@ My DSA practice in C++ with notes and solutions.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sh3456/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sh3456/DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Sh3456/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Sh3456/DSA/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/Sh3456/DSA/tree/master/0283-move-zeroes) |
 ## Greedy
@@ -69,6 +71,7 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sh3456/DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Sh3456/DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Sh3456/DSA/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
