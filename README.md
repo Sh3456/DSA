@@ -26,6 +26,7 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sh3456/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +51,7 @@ My DSA practice in C++ with notes and solutions.
 | [0015-3sum](https://github.com/Sh3456/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sh3456/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Sh3456/DSA/tree/master/0118-pascals-triangle) |
+| [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sh3456/DSA/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
@@ -73,6 +75,7 @@ My DSA practice in C++ with notes and solutions.
 | [0015-3sum](https://github.com/Sh3456/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Sh3456/DSA/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Sh3456/DSA/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 ## Merge Sort
 |  |
 | ------- |
@@ -81,4 +84,13 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sh3456/DSA/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
