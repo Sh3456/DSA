@@ -40,6 +40,7 @@ My DSA practice in C++ with notes and solutions.
 | [0160-intersection-of-two-linked-lists](https://github.com/Sh3456/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Sh3456/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sh3456/DSA/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Sh3456/DSA/tree/master/0344-reverse-string) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +64,7 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sh3456/DSA/tree/master/0020-valid-parentheses) |
+| [0344-reverse-string](https://github.com/Sh3456/DSA/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
