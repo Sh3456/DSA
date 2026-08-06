@@ -36,6 +36,7 @@ My DSA practice in C++ with notes and solutions.
 | [0061-rotate-list](https://github.com/Sh3456/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sh3456/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sh3456/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/Sh3456/DSA/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Sh3456/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sh3456/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sh3456/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -66,6 +67,7 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sh3456/DSA/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Sh3456/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sh3456/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sh3456/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sh3456/DSA/tree/master/0345-reverse-vowels-of-a-string) |
