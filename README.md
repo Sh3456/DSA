@@ -31,6 +31,7 @@ My DSA practice in C++ with notes and solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sh3456/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sh3456/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sh3456/DSA/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Sh3456/DSA/tree/master/0061-rotate-list) |
@@ -69,6 +70,7 @@ My DSA practice in C++ with notes and solutions.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sh3456/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Sh3456/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Sh3456/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Sh3456/DSA/tree/master/0125-valid-palindrome) |
@@ -80,6 +82,7 @@ My DSA practice in C++ with notes and solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sh3456/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Sh3456/DSA/tree/master/0118-pascals-triangle) |
 | [0647-palindromic-substrings](https://github.com/Sh3456/DSA/tree/master/0647-palindromic-substrings) |
 ## Divide and Conquer
@@ -114,4 +117,8 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sh3456/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sh3456/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
