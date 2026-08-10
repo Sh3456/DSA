@@ -27,6 +27,7 @@ My DSA practice in C++ with notes and solutions.
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sh3456/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sh3456/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Sh3456/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@ My DSA practice in C++ with notes and solutions.
 | [0151-reverse-words-in-a-string](https://github.com/Sh3456/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sh3456/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sh3456/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sh3456/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Sh3456/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Sh3456/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Sh3456/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -124,4 +126,8 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sh3456/DSA/tree/master/0005-longest-palindromic-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Sh3456/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
