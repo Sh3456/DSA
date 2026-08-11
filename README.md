@@ -84,6 +84,7 @@ My DSA practice in C++ with notes and solutions.
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sh3456/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Sh3456/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Sh3456/DSA/tree/master/0680-valid-palindrome-ii) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sh3456/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1903-largest-odd-number-in-string](https://github.com/Sh3456/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -133,4 +134,5 @@ My DSA practice in C++ with notes and solutions.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sh3456/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sh3456/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sh3456/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
