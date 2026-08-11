@@ -25,6 +25,7 @@ My DSA practice in C++ with notes and solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sh3456/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sh3456/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sh3456/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -72,6 +73,7 @@ My DSA practice in C++ with notes and solutions.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sh3456/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sh3456/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Sh3456/DSA/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Sh3456/DSA/tree/master/0058-length-of-last-word) |
@@ -129,5 +131,6 @@ My DSA practice in C++ with notes and solutions.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sh3456/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sh3456/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
