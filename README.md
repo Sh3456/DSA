@@ -59,6 +59,7 @@ My DSA practice in C++ with notes and solutions.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sh3456/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sh3456/DSA/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sh3456/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sh3456/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Sh3456/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Sh3456/DSA/tree/master/0118-pascals-triangle) |
@@ -117,6 +118,7 @@ My DSA practice in C++ with notes and solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sh3456/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sh3456/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
