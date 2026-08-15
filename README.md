@@ -22,6 +22,7 @@ My DSA practice in C++ with notes and solutions.
 | [0021-merge-two-sorted-lists](https://github.com/Sh3456/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Sh3456/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Sh3456/DSA/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Sh3456/DSA/tree/master/0326-power-of-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ My DSA practice in C++ with notes and solutions.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sh3456/DSA/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Sh3456/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Sh3456/DSA/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/Sh3456/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
