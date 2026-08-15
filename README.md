@@ -64,6 +64,7 @@ My DSA practice in C++ with notes and solutions.
 | [0075-sort-colors](https://github.com/Sh3456/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Sh3456/DSA/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sh3456/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Sh3456/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sh3456/DSA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Sh3456/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -122,6 +123,7 @@ My DSA practice in C++ with notes and solutions.
 | [0033-search-in-rotated-sorted-array](https://github.com/Sh3456/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sh3456/DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sh3456/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/Sh3456/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
