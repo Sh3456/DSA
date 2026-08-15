@@ -68,6 +68,7 @@ My DSA practice in C++ with notes and solutions.
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sh3456/DSA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Sh3456/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sh3456/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
@@ -129,6 +130,7 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sh3456/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
 |  |
 | ------- |
