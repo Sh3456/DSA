@@ -44,6 +44,7 @@ My DSA practice in C++ with notes and solutions.
 | [0148-sort-list](https://github.com/Sh3456/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sh3456/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sh3456/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Sh3456/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sh3456/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sh3456/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sh3456/DSA/tree/master/0344-reverse-string) |
@@ -66,6 +67,7 @@ My DSA practice in C++ with notes and solutions.
 | [0118-pascals-triangle](https://github.com/Sh3456/DSA/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sh3456/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sh3456/DSA/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Sh3456/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sh3456/DSA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Sh3456/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -118,6 +120,7 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sh3456/DSA/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/Sh3456/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Sh3456/DSA/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/Sh3456/DSA/tree/master/0412-fizz-buzz) |
