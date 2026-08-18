@@ -73,6 +73,7 @@ My DSA practice in C++ with notes and solutions.
 | [0283-move-zeroes](https://github.com/Sh3456/DSA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Sh3456/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Sh3456/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sh3456/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sh3456/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
@@ -137,6 +138,7 @@ My DSA practice in C++ with notes and solutions.
 | [0162-find-peak-element](https://github.com/Sh3456/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/Sh3456/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sh3456/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
