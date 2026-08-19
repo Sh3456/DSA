@@ -74,6 +74,7 @@ My DSA practice in C++ with notes and solutions.
 | [0560-subarray-sum-equals-k](https://github.com/Sh3456/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/Sh3456/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sh3456/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Sh3456/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sh3456/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
@@ -139,6 +140,7 @@ My DSA practice in C++ with notes and solutions.
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/Sh3456/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sh3456/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Sh3456/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Bit Manipulation
 |  |
 | ------- |
