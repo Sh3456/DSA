@@ -51,6 +51,7 @@ My DSA practice in C++ with notes and solutions.
 | [0345-reverse-vowels-of-a-string](https://github.com/Sh3456/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/Sh3456/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Sh3456/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/Sh3456/DSA/tree/master/0832-flipping-an-image) |
 ## Stack
 |  |
 | ------- |
@@ -72,6 +73,7 @@ My DSA practice in C++ with notes and solutions.
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sh3456/DSA/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Sh3456/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0832-flipping-an-image](https://github.com/Sh3456/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Sh3456/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Sh3456/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sh3456/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -150,6 +152,7 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/Sh3456/DSA/tree/master/0832-flipping-an-image) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sh3456/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Prefix Sum
 |  |
@@ -169,10 +172,12 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sh3456/DSA/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/Sh3456/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Sh3456/DSA/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Sh3456/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Sh3456/DSA/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Sh3456/DSA/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
