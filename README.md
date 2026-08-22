@@ -77,6 +77,7 @@ My DSA practice in C++ with notes and solutions.
 | [0867-transpose-matrix](https://github.com/Sh3456/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Sh3456/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sh3456/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sh3456/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sh3456/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/Sh3456/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Sh3456/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -146,6 +147,7 @@ My DSA practice in C++ with notes and solutions.
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/Sh3456/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sh3456/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sh3456/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Sh3456/DSA/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Sh3456/DSA/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Bit Manipulation
