@@ -67,6 +67,7 @@ My DSA practice in C++ with notes and solutions.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sh3456/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sh3456/DSA/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Sh3456/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Sh3456/DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Sh3456/DSA/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sh3456/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sh3456/DSA/tree/master/0162-find-peak-element) |
@@ -156,6 +157,7 @@ My DSA practice in C++ with notes and solutions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Sh3456/DSA/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Sh3456/DSA/tree/master/0832-flipping-an-image) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sh3456/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -189,4 +191,8 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Sh3456/DSA/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Sh3456/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
