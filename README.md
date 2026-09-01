@@ -61,6 +61,7 @@ My DSA practice in C++ with notes and solutions.
 | [0234-palindrome-linked-list](https://github.com/Sh3456/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sh3456/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sh3456/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Sh3456/DSA/tree/master/0739-daily-temperatures) |
 ## Array
 |  |
 | ------- |
@@ -80,6 +81,7 @@ My DSA practice in C++ with notes and solutions.
 | [0496-next-greater-element-i](https://github.com/Sh3456/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sh3456/DSA/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sh3456/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/Sh3456/DSA/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Sh3456/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Sh3456/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Sh3456/DSA/tree/master/0875-koko-eating-bananas) |
@@ -205,4 +207,5 @@ My DSA practice in C++ with notes and solutions.
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sh3456/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sh3456/DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Sh3456/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
