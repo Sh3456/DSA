@@ -31,6 +31,7 @@ My DSA practice in C++ with notes and solutions.
 | [0160-intersection-of-two-linked-lists](https://github.com/Sh3456/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sh3456/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Sh3456/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sh3456/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -58,6 +59,7 @@ My DSA practice in C++ with notes and solutions.
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sh3456/DSA/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Sh3456/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Sh3456/DSA/tree/master/0496-next-greater-element-i) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +76,7 @@ My DSA practice in C++ with notes and solutions.
 | [0189-rotate-array](https://github.com/Sh3456/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sh3456/DSA/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Sh3456/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sh3456/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0832-flipping-an-image](https://github.com/Sh3456/DSA/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Sh3456/DSA/tree/master/0867-transpose-matrix) |
@@ -195,4 +198,8 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sh3456/DSA/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Sh3456/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
