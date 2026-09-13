@@ -54,6 +54,7 @@ My DSA practice in C++ with notes and solutions.
 | [0647-palindromic-substrings](https://github.com/Sh3456/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Sh3456/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Sh3456/DSA/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Sh3456/DSA/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
@@ -63,6 +64,7 @@ My DSA practice in C++ with notes and solutions.
 | [0496-next-greater-element-i](https://github.com/Sh3456/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sh3456/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sh3456/DSA/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Sh3456/DSA/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/Sh3456/DSA/tree/master/0901-online-stock-span) |
 ## Array
 |  |
@@ -115,6 +117,7 @@ My DSA practice in C++ with notes and solutions.
 | [0438-find-all-anagrams-in-a-string](https://github.com/Sh3456/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Sh3456/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Sh3456/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/Sh3456/DSA/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Sh3456/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1903-largest-odd-number-in-string](https://github.com/Sh3456/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -191,6 +194,7 @@ My DSA practice in C++ with notes and solutions.
 | ------- |
 | [0412-fizz-buzz](https://github.com/Sh3456/DSA/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/Sh3456/DSA/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/Sh3456/DSA/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Sh3456/DSA/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
