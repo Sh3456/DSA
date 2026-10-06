@@ -7,6 +7,7 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sh3456/DSA/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sh3456/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sh3456/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Sh3456/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sh3456/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -39,6 +40,7 @@ My DSA practice in C++ with notes and solutions.
 | [0005-longest-palindromic-substring](https://github.com/Sh3456/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sh3456/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sh3456/DSA/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sh3456/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Sh3456/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Sh3456/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sh3456/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
