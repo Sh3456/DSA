@@ -17,6 +17,7 @@ My DSA practice in C++ with notes and solutions.
 | [0203-remove-linked-list-elements](https://github.com/Sh3456/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Sh3456/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sh3456/DSA/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Sh3456/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +59,7 @@ My DSA practice in C++ with notes and solutions.
 | [0680-valid-palindrome-ii](https://github.com/Sh3456/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/Sh3456/DSA/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Sh3456/DSA/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Sh3456/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
