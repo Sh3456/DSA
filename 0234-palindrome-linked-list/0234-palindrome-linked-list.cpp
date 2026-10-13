@@ -10,20 +10,21 @@
  */
 class Solution {
 public:
-    vector<int>ans;
     bool isPalindrome(ListNode* head) {
+        vector<int>ans;
         while(head!=NULL){
             ans.push_back(head->val);
             head=head->next;
         }
-        int left=0;
-        int right=ans.size()-1;
-        while(left<=right){
-            if(ans[left]!=ans[right]){
+        int i=0;
+        int j=ans.size()-1;
+        while(i<=j){
+            if(ans[i]!=ans[j]){
                 return false;
-            } 
-            left++;
-            right--;
+            }else{
+                i++;
+                j--;
+            }
         }
         return true;
     }
