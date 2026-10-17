@@ -8,60 +8,23 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 class Solution {
 public:
-
-    // Merge two sorted linked lists
-    ListNode* merge(ListNode* left, ListNode* right) {
-
-        ListNode dummy(0);
-        ListNode* tail = &dummy;
-
-        while (left && right) {
-            if (left->val <= right->val) {
-                tail->next = left;
-                left = left->next;
-            } else {
-                tail->next = right;
-                right = right->next;
-            }
-            tail = tail->next;
-        }
-
-        if (left)
-            tail->next = left;
-        else
-            tail->next = right;
-
-        return dummy.next;
-    }
-
     ListNode* sortList(ListNode* head) {
-
-        // Base Case
-        if (head == NULL || head->next == NULL)
-            return head;
-
-        // Find Middle
-        ListNode* slow = head;
-        ListNode* fast = head;
-        ListNode* prev = NULL;
-
-        while (fast && fast->next) {
-            prev = slow;
-            slow = slow->next;
-            fast = fast->next->next;
+        ListNode*temp=head;
+        vector<int>ans;
+        while(temp!=NULL){
+            ans.push_back(temp->val);
+            temp=temp->next;
         }
-
-        // Split the list into two halves
-        prev->next = NULL;
-
-        // Recursively sort both halves
-        ListNode* left = sortList(head);
-        ListNode* right = sortList(slow);
-
-        // Merge sorted halves
-        return merge(left, right);
+        sort(ans.begin(),ans.end());
+        temp=head;
+        int i=0;
+        while(temp!=NULL){
+            temp->val=ans[i];
+            i++;
+            temp=temp->next;
+        }
+            return head;
     }
 };
