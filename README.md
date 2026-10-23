@@ -134,6 +134,7 @@ My DSA practice in C++ with notes and solutions.
 | [0125-valid-palindrome](https://github.com/Sh3456/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sh3456/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0227-basic-calculator-ii](https://github.com/Sh3456/DSA/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/Sh3456/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Sh3456/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Sh3456/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Sh3456/DSA/tree/master/0412-fizz-buzz) |
@@ -235,6 +236,7 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sh3456/DSA/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Sh3456/DSA/tree/master/0257-binary-tree-paths) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -264,6 +266,7 @@ My DSA practice in C++ with notes and solutions.
 | [0144-binary-tree-preorder-traversal](https://github.com/Sh3456/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sh3456/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sh3456/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sh3456/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sh3456/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sh3456/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -275,6 +278,7 @@ My DSA practice in C++ with notes and solutions.
 | [0144-binary-tree-preorder-traversal](https://github.com/Sh3456/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sh3456/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sh3456/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sh3456/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sh3456/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sh3456/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -292,6 +296,7 @@ My DSA practice in C++ with notes and solutions.
 | [0144-binary-tree-preorder-traversal](https://github.com/Sh3456/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sh3456/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sh3456/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sh3456/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sh3456/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Sh3456/DSA/tree/master/0572-subtree-of-another-tree) |
 ## DP on Trees
