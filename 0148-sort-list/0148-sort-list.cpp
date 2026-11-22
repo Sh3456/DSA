@@ -18,13 +18,13 @@ public:
             temp=temp->next;
         }
         sort(ans.begin(),ans.end());
-        temp=head;
         int i=0;
+        temp=head;
         while(temp!=NULL){
             temp->val=ans[i];
             i++;
             temp=temp->next;
         }
-            return head;
+        return head;
     }
 };
