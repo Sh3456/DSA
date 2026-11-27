@@ -189,6 +189,7 @@ My DSA practice in C++ with notes and solutions.
 | [0074-search-a-2d-matrix](https://github.com/Sh3456/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sh3456/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sh3456/DSA/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/Sh3456/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/Sh3456/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sh3456/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -199,6 +200,7 @@ My DSA practice in C++ with notes and solutions.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Sh3456/DSA/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/Sh3456/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Sh3456/DSA/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Sh3456/DSA/tree/master/0832-flipping-an-image) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sh3456/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -274,6 +276,7 @@ My DSA practice in C++ with notes and solutions.
 | [0144-binary-tree-preorder-traversal](https://github.com/Sh3456/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sh3456/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sh3456/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Sh3456/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Sh3456/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sh3456/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sh3456/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -322,6 +325,7 @@ My DSA practice in C++ with notes and solutions.
 | [0144-binary-tree-preorder-traversal](https://github.com/Sh3456/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sh3456/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sh3456/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Sh3456/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Sh3456/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sh3456/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sh3456/DSA/tree/master/0543-diameter-of-binary-tree) |
